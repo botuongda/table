@@ -1,0 +1,43 @@
+html, body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Gentium Book Basic', serif;
+
+	
+}
+*{
+	box-sizing: border-box;
+}
+.wrap {
+	max-width: 1000px;
+	margin: auto;
+}
+.main-content {
+
+	margin: auto;
+
+}
+input {
+	    margin: 13px;
+}
+input#nhap {
+		width: 239px;
+		height: 46px;
+		padding: 14px;
+
+}
+input#dangnhap{
+
+}
+i {
+	color:red;
+}
+#myTable table, td, th {
+	border:1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+	text-align: center;
+}
+img {
+	max-width: 100%;
+}
